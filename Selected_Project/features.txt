@@ -1,0 +1,14 @@
+- registration (attendance enable,disable)
+- attendance (enable, diable)
+- SSID lock feature: doing from admin's SSID
+- marking myself present
+- manual attendance
+- uid generation (no replication)
+- managing members
+- add members manually
+- events information (new session creation)
+	- on the day: not upcoming
+- attendance register (for every single date for admin)
+- push notification feature
+- manages everything that a club handles
+- no google forms, works as proof also.
